@@ -1,4 +1,4 @@
-# NuketheWhales7
+# NuketheWhales7#7777
 # AFK BOT that moves your mouse every 2 seconds
 
 
