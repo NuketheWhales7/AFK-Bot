@@ -8,6 +8,6 @@ import time
 
 while True:
 	x = random.randint(800,700)
-	x = random.randint(200,600)
+	y = random.randint(200,600)
 	pag.moveTo(x,y,0.5)
 	time.sleep(2)
