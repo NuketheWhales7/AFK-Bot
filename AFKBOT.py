@@ -1,4 +1,4 @@
-# Chistopher Miller
+# NuketheWhales7
 # AFK BOT that moves your mouse every 2 seconds
 
 
